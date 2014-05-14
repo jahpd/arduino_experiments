@@ -26,5 +26,7 @@ Until now, we have only one example:
 $ ruby led_blink.rb
 ```
 
+Yeah! now we have two leds blinking!
+
 ![arduino](https://lh5.googleusercontent.com/-e5PX-N6jcl4/U3PBJaNwS3I/AAAAAAAAARw/hOnJsuUY1JQ/s640/2014-05-14%252016.08.18.jpg)
 
